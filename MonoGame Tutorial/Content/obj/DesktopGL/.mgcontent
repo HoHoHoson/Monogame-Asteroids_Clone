@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Cert II Assessment 1 - Asteroids/MonoGame Tutorial/MonoGame Tutorial/Content/Arial.spritefont</File>
+    <File>E:/Cert II Assessment 1 - Asteroids/MonoGame Tutorial/MonoGame Tutorial/Content/ship.png</File>
+    <File>E:/Cert II Assessment 1 - Asteroids/MonoGame Tutorial/MonoGame Tutorial/Content/rock_large.png</File>
+    <File>E:/Cert II Assessment 1 - Asteroids/MonoGame Tutorial/MonoGame Tutorial/Content/bullet.png</File>
+    <File>E:/Cert II Assessment 1 - Asteroids/MonoGame Tutorial/MonoGame Tutorial/Content/grass.png</File>
+    <File>E:/Cert II Assessment 1 - Asteroids/MonoGame Tutorial/MonoGame Tutorial/Content/rock_medium.png</File>
+    <File>E:/Cert II Assessment 1 - Asteroids/MonoGame Tutorial/MonoGame Tutorial/Content/rock_small.png</File>
+  </SourceFiles>
+</SourceFileCollection>

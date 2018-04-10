@@ -1,0 +1,75 @@
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\Arial.xnb
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\ship.xnb
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\MonoGame Tutorial.exe
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\MonoGame Tutorial.pdb
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+E:\MonoGame Tutorial\MonoGame Tutorial\obj\Debug\MonoGame Tutorial.csprojResolveAssemblyReference.cache
+E:\MonoGame Tutorial\MonoGame Tutorial\obj\Debug\MonoGame Tutorial.csproj.CoreCompileInputs.cache
+E:\MonoGame Tutorial\MonoGame Tutorial\obj\Debug\MonoGame Tutorial.exe
+E:\MonoGame Tutorial\MonoGame Tutorial\obj\Debug\MonoGame Tutorial.pdb
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\Arial.xnb
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\ship.xnb
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\MonoGame Tutorial.exe
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\MonoGame Tutorial.pdb
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\obj\Debug\MonoGame Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\obj\Debug\MonoGame Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\obj\Debug\MonoGame Tutorial.exe
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\obj\Debug\MonoGame Tutorial.pdb
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\rock_large.xnb
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\bullet.xnb
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\grass.xnb
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\rock_medium.xnb
+C:\Users\s181702\source\repos\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\rock_small.xnb
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\bullet.xnb
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\grass.xnb
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\rock_large.xnb
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\rock_medium.xnb
+E:\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\rock_small.xnb
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\obj\Debug\MonoGame Tutorial.csprojResolveAssemblyReference.cache
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\obj\Debug\MonoGame Tutorial.csproj.CoreCompileInputs.cache
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\obj\Debug\MonoGame Tutorial.exe
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\obj\Debug\MonoGame Tutorial.pdb
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\Arial.xnb
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\bullet.xnb
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\grass.xnb
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\rock_large.xnb
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\rock_medium.xnb
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\rock_small.xnb
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\Content\ship.xnb
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\MonoGame Tutorial.exe
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\MonoGame Tutorial.pdb
+E:\Cert II Assessment 1 - Asteroids\MonoGame Tutorial\MonoGame Tutorial\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
