@@ -198,15 +198,15 @@ namespace MonoGame_Tutorial
             for (int asteroidIdx = 0; asteroidIdx < asteroidPositions.Count; asteroidIdx++)
             {
                 Vector2 position = (Vector2)asteroidPositions[asteroidIdx];
-                Rectangle asteroid = new Rectangle(
-                    (int)(position.X - asteroidOffset.X),
-                    (int)(position.Y - asteroidOffset.Y),
-                    asteroidTexture.Width, asteroidTexture.Height);
+
+                Rectangle asteroid = new Rectangle((int)(position.X - asteroidOffset.X),(int)(position.Y - asteroidOffset.Y), asteroidTexture.Width, asteroidTexture.Height);
 
                     for (int bulletIdx = 0; bulletIdx < bulletPositions.Count; bulletIdx++)
                     {
                         Vector2 bullposition = (Vector2)bulletPositions[bulletIdx];
+
                         Rectangle bulletRect = new Rectangle((int)bullposition.X, (int)bullposition.Y, bulletTexture.Bounds.Width, bulletTexture.Bounds.Height);
+
                         if (IsColliding(asteroid, bulletRect) == true)
                         {
                             asteroidPositions.RemoveAt(asteroidIdx);
